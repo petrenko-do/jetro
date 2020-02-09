@@ -1,4 +1,10 @@
 html{
     box-sizing: border-box;
-    text-transform: uppercase;
+}
+
+body{
+    background-color: #c9c9c9;
+}
+header{
+    background-color: red;
 }
